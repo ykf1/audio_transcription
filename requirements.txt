@@ -1,0 +1,8 @@
+langchain-0.1.1
+openai-1.8.0
+openai-whisper-20231117
+tiktoken-0.5.2
+python-dotenv 0.21.0
+pytube-15.0.0
+chromadb-0.4.19
+streamlit-1.28.2
