@@ -1,7 +1,9 @@
 # audio_transcription
 
 
-This is a personal project that builds a simple Python application that does Speech to text transcription, custom summarisation, and question and answer over meeting and audio calls using large language models.
+A Python application that does Speech to text transcription, custom summarisation, and question and answer over meeting and audio calls using large language models.
+
+The application accepts an uploaded audio file and text transcript, or youtube url. The user can choose various summarisation output formats like one sentence, bullet points, short or long summary. The summary is generated as per desired output format and the user can then ask questions about the transcript to obtain further finer details contained in the transcript.
 
 Concepts used in this project:
 - Speech to text transcription of an uploaded audio mp3 file or youtube video url link using OpenAI whisper model.
